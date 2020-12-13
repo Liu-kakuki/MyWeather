@@ -65,6 +65,7 @@ dependencies {
 **db包（数据库，依赖LitePal库，数据继承DataSuport）：**
 
 **Province.class存储省份数据，City.class存储市数据，County.class存储县数据**
+
 Province.class
 
 City.class
